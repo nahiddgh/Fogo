@@ -4,3 +4,6 @@ fogo testnet:
 to start you need to join their discord
 
 https://discord.gg/fogochain
+then start here:
+https://www.fogo.io/start
+
