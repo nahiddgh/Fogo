@@ -11,4 +11,6 @@ https://www.fogo.io/start
 for faucet you can use:
 @fogo_faucet_bot on tg
 and https://www.gas.zip/faucet/fogo 
+also get free faucet from tg bot:
+@fogo_faucet_bot
 
