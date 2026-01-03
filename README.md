@@ -15,3 +15,5 @@ also get free faucet from tg bot:
 @fogo_faucet_bot
 
 check out discord server for more exciting news
+
+tge on jan 13⏳
